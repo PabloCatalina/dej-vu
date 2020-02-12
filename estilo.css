@@ -1,0 +1,90 @@
+/* Pablo Catalina Castelló */
+/* Ultima actualización 12/02/2020 hora 19:05 */
+
+
+body{
+    background-color: #d3d3d3;
+    margin: 0 0 0em;
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+h1{
+    background-color: black;
+    text-align: right;
+    color: white;
+    padding: 10px;
+    margin: 0;
+}
+
+h2{
+    margin-left: 20%;
+    border-bottom: white 5px solid;
+    margin-right: 20%;
+}
+
+hr.black{
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 2px;
+    background-color: black;
+}
+
+hr.white{
+    margin-left: 20%;
+    margin-right: 20%;
+    height: 3px;
+    background-color: white;
+    border-color: white;
+}
+
+p.fecha{
+
+  border-top: black 4px solid;
+  padding-top: 2em;
+  text-align: center;
+
+}
+
+time{
+    padding: 5px;
+    background-color: gray;
+    color: white;
+    font-size: 200%;
+    font-weight: bold;
+    letter-spacing: 5px
+}
+
+p{
+    margin-left: 20%;
+    margin-right: 20%;
+    word-spacing: 4px;
+}
+
+q{
+    font-size: 150%;
+    border-bottom: red 1px dashed;
+    font-family: serif;
+}
+
+span.resaltado{
+    background-color: white;
+    color: red;
+}
+
+span.lugar{
+    color: blue;
+}
+
+address{
+    text-align: center;
+    background-color: #5a5959f6;
+    color: white;
+    padding: 10px;
+    border: black 2px solid;
+    padding-bottom: 0;
+}
+
+span.gmail{
+    color: blue;
+}
